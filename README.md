@@ -1,2 +1,2 @@
 # personal-trainer
-https://github.com/INFERN0538/personal-trainer.git
+https://infern0538.github.io/personal-trainer/
