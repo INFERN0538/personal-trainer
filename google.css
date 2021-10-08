@@ -21,7 +21,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #FDB813;
+    background-color: #FFFFFF;
 }
 
 l {
@@ -29,7 +29,7 @@ l {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #FDB813;
+    background-color: #FFFFFF;
 }
 
 li {
@@ -45,7 +45,7 @@ li a {
 }
 
 li a:hover {
-    background-color: #111111;
+    background-color: #FFFFFF;
 }
 
 al {
@@ -53,7 +53,7 @@ al {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #A9A9A9;
+    background-color: #FFFFFF;
 }
 
 
@@ -62,7 +62,7 @@ ll {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #A9A9A9;
+    background-color: #FFFFFF;
 }
 
 ll {
@@ -78,7 +78,7 @@ ll a {
 }
 
 ll a:hover {
-    background-color: #111111;
+    background-color: #FFFFFF;
 }
 
 .img-with-text {
