@@ -1,7 +1,7 @@
 body {background-color:#FFFFFF;}
 	background-image: https://orange-object.github.io/dude/;
 }
-	a{color:#FFFFFF}
+	a{color:#000000}
 	a: hover{color:#009dff}
 
 alt="orange"
@@ -21,7 +21,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #FFFFFF;
+    background-color: #000000;
 }
 
 l {
