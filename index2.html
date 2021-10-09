@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -19,6 +20,26 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+-----------------------------
+.dropdowm {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdowm-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdowm:hover .dropdowm-content {
+  display: block;
+}
 </style>
 </head>
 <body>
@@ -33,5 +54,14 @@
   </div>
 </div>
 
+<div class="dropdowm">
+  <span>Mouse over me</span>
+  <div class="dropdowm-content">
+  <p>Hello World!</p>
+  </div>
+</div>
+
 </body>
 </html>
+
+
