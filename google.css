@@ -12,15 +12,15 @@ lii {
 
 lii a {
   display: block;
-  color: black;
+  color: red;
   text-align: center;
-  padding: 14px 96px;
+  padding: 14px 76px;
   text-decoration: none;
-  background-color: yellow;
+  background-color: pink;
 }
 
 lii a:hover {
-  background-color: #111;
+  background-color: orange;
 }
 ul {
     list-style-type: none;
