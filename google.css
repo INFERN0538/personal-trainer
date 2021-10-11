@@ -14,48 +14,13 @@ lii a {
   display: block;
   color: red;
   text-align: center;
-  padding: 14px 76px;
+  padding: 14px 16px;
   text-decoration: none;
   background-color: pink;
 }
 
 lii a:hover {
   background-color: orange;
-}
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #FDB813;
-    
-    
-}
-
-l {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #FDB813;
-}
-
-li {
-    float: left;
-    margin-left: 10px;
-    margin-right: 10px;
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 16px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: #111111;
 }
 
 al {
@@ -102,7 +67,7 @@ ll a:hover {
         color: white;
         padding: 16px;
         font-size: 20px;
-        border: 0px outset red ;
+        border: 0px outset red;
         float: left;
      margin-left: 19px;
       }
