@@ -66,7 +66,8 @@ ll a:hover {
   background-color: lightblue;
   text-align: center;
   margin-top: 5px;
-      border-width: 10px 50px;
+      width: 300px;
+  height: 100px;
   
 }
       .dropbtn {
